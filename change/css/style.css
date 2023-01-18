@@ -1,0 +1,50 @@
+body{
+    background-color: #263242;
+    color: white;
+    font-family: Roboto;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.tt{
+    color: #9399A1;
+}
+
+#divClick{
+    text-align: center !important;
+}
+
+#frontImg{
+    height: auto;
+    max-width: 50%;
+}
+
+.logo{
+    max-width: 50%;
+    height: auto;
+    float: right;
+}
+
+.ima{
+    height: auto ;
+    max-width: 30% ;
+}
+
+#footer {
+    flex: 0 0 50px;/*or just height:50px;*/
+    margin-top: auto;
+}
+
+#page1{
+    display: none;
+}
+
+#page2{
+    display: none;
+}
+
+#page3{
+    display: none;
+}

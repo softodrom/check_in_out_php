@@ -1,0 +1,59 @@
+body{
+    background-color: #263242;
+    color: white;
+    font-family: Roboto;
+}
+
+.center{
+    width: 150px;
+    margin: 40px auto;
+}
+
+.mar{
+    margin: 20px auto;
+}
+
+.tt{
+    color: #9399A1;
+}
+
+div.fixed {
+
+}
+
+.ima{
+    display: block;
+    max-width: 30%;
+    height: auto;
+}
+
+#divClick{
+    text-align: center !important;
+}
+
+#clickme{
+    margin: 0 auto;
+}
+
+#frontImg{
+    max-height: 140px;
+}
+
+#container{
+    position: relative !important;
+}
+
+#bottom-right{
+    /*bottom: 0;*/
+    /*vertical-align: middle;*/
+    /*position: relative;*/
+    /*bottom: 0px;*/
+}
+
+.logo{
+    /*display: block;*/
+    max-width: 50%;
+    height: auto;
+    float: right;
+    /*margin-top: 30px;*/
+}
